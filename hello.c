@@ -4,4 +4,7 @@ int main(){
     printf("New changes");
     printf("this is abc");
     printf("This is new commit");
+    /*New work*/
+    printf("New feature added");
+    
 }
