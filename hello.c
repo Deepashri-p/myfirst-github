@@ -6,5 +6,6 @@ int main(){
     printf("This is new commit");
     /*New work*/
     printf("New feature added");
+    printf("this new sje");
     
 }
