@@ -7,5 +7,6 @@ int main(){
     /*New work*/
     printf("New feature added");
     printf("this new sje");
+    hello;
     
 }
